@@ -8,7 +8,6 @@
 - 🌱 &nbsp; I’m I’m currently learning Node Js.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
 
-![Example1](animation_500_kimtorju.gif)
 
 **Languages and Tools:**  
 <br />
@@ -23,10 +22,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br />
 <br />
+![Example1](animation_500_kimtorju.gif)
+<br />
+<br />
+
 <a href="https://github.com/AyushMaji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=algolia&show_icons=true" alt="Anurag's github stats" />
 </a> 
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)
 
 
