@@ -2,9 +2,9 @@
 
 <br />
 
-- 🔭  I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
-- 🌱  I’m currently learning Node Js.
-- 💬  Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
+- 🔭 &nbsp; I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
+- 🌱 &nbsp; I’m currently learning Node Js.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
 
 **Languages and Tools:**  
 <br />
