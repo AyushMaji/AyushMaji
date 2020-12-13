@@ -21,6 +21,6 @@
 <br />
 <br />
 <a href="https://github.com/AyushMaji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=dark&show_icons=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=default&show_icons=true" alt="Anurag's github stats" />
 </a>
 
