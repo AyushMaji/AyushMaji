@@ -1,12 +1,6 @@
  
  <img src="https://github.com/AyushMaji/AyushMaji/blob/main/Screenshot%202020-12-13%20at%2012.01.14%20PM.png" />
 
- 
- 
- [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
-
-
 ### Hi there, I'm  Ayush Maji ! 👋
 
 
@@ -14,7 +8,9 @@
 - 🌱 &nbsp; I’m I’m currently learning Node Js.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
 
-
+ [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+ 
+ 
 **Languages and Tools:**  
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
