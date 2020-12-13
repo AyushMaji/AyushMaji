@@ -10,8 +10,7 @@
 - 🌱 &nbsp; I’m I’m currently learning Node Js.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
 
- [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
- 
+
  
 **Languages and Tools:**  
 <br />
