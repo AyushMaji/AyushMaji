@@ -24,10 +24,9 @@
 <a href="https://github.com/AyushMaji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=algolia&show_icons=true" alt="Anurag's github stats" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)
-<br />
-<br />
 
+&nbsp;&nbsp;
 ![Example1](animation_500_kimtorju.gif)
 
