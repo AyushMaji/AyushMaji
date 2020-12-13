@@ -1,3 +1,8 @@
+ 
+ <img src="https://github.com/AyushMaji/AyushMaji/blob/main/Screenshot%202020-12-13%20at%2012.01.14%20PM.png" />
+
+ 
+ 
  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
@@ -35,4 +40,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)
 
-<img src="https://github.com/AyushMaji/AyushMaji/blob/main/Screenshot%202020-12-13%20at%2012.01.14%20PM.png" />
