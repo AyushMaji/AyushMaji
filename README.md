@@ -1,4 +1,5 @@
 
+<img src="https://github.com/AyushMaji/AyushMaji/blob/main/Screenshot%202020-12-13%20at%2012.01.14%20PM.png" />
 
 ### Hi there, I'm  Ayush Maji ! 👋
 
@@ -28,4 +29,4 @@
 <br />
 <br />
 
-<img src="https://www.deccanherald.com/sites/dh/files/styles/largehorizontal/public/article_images/2020/05/19/AYUSH-1893311379-1587729933.jpg?itok=cExIVnUs" />
+
