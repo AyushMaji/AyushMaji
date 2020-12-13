@@ -3,10 +3,7 @@
 
 
 <h1 align="center"> Hi there, I'm  Ayush Maji ! 👋
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="animation_500_kimtorju.gif" alt="khushboogoel01" /> </p>
-<img align="right" alt="Coding" width="400" src="animation_500_kimtorju.gif">
 
 
 - 🔭 &nbsp; I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
