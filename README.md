@@ -1,7 +1,12 @@
  
  <img src="https://github.com/AyushMaji/AyushMaji/blob/main/Screenshot%202020-12-13%20at%2012.01.14%20PM.png" />
 
-### Hi there, I'm  Ayush Maji ! 👋
+
+<h1 align="center"> Hi there, I'm  Ayush Maji ! 👋
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+
+<p align="left"> <img src="animation_500_kimtorju.gif" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="animation_500_kimtorju.gif">
 
 
 - 🔭 &nbsp; I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
@@ -24,9 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br />
 <br />
-![Example1](animation_500_kimtorju.gif)
-<br />
-<br />
+
 
 <a href="https://github.com/AyushMaji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=algolia&show_icons=true" alt="Anurag's github stats" />
