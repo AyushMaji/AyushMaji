@@ -26,8 +26,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)
-<br />
-<br />
+
 
 ![Example1](animation_500_kimtorju.gif)
 
