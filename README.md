@@ -1,7 +1,7 @@
+
+
 ### Hi there, I'm  Ayush Maji ! 👋
 
-
-<br />
 
 - 🔭 &nbsp; I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
 - 🌱 &nbsp; I’m I’m currently learning Node Js.
@@ -27,3 +27,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)
 <br />
 <br />
+
+<img src="https://www.deccanherald.com/sites/dh/files/styles/largehorizontal/public/article_images/2020/05/19/AYUSH-1893311379-1587729933.jpg?itok=cExIVnUs" />
