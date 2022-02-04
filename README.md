@@ -3,14 +3,6 @@
 
 
 <h1 align="center"> Hi there, I'm  Ayush Maji ! 👋
-
-
-
-- 🔭 &nbsp; I'm Ayush Maji, a passionate self-taught frontEnd web developer from India.
-- 🌱 &nbsp; I’m I’m currently learning Node Js.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/AyushMaji/AyushMaji/issues)
-
-
  
 **Languages and Tools:**  
 <br />
