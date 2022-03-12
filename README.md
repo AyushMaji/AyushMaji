@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://ayushmaji.netlify.app/">Ayush Maji</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/">Ayush Maji</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 ---
 
@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=CourseHub&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=YtAddSkip_WebExtention&show_icons=true&theme=great-gatsby">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=SpaceWebsiteYt_3&show_icons=true&theme=great-gatsby">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=ayushmajiCv.github.io&show_icons=true&theme=great-gatsby">
 </div>
  
 <div align="center">
