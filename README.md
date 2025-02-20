@@ -15,6 +15,10 @@ As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile application
 - I’m currently contributing to open-source projects and working on a **Flutter-based API platform**. <br/>  
 
 
+
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)|<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=light&show_icons=true" alt="Anurag's github stats" />|
+|---|---|
+
 <h2>Technical Skills</h2>
 
 <br />
@@ -30,15 +34,18 @@ As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile application
 <br />
 <br />
 
+<h2>My Projects</h2>
 
-<a href="https://github.com/AyushMaji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=algolia&show_icons=true" alt="Anurag's github stats" />
-</a> 
-<br />
-<br />
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=amicons&show_icons=true&theme=tokyonight"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=tokyonight"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=YtAddSkip_WebExtention&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=ayushmajiCv.github.io&show_icons=true&theme=tokyonight">
+</div>
 
-## Connect with me  
-<div align="center">
+
+ ## Connect with me  
+<div align="left">
  <a href="https://www.linkedin.com/in/ayushmaji/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -48,23 +55,6 @@ As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile application
 <a href="https://www.instagram.com/ayushmaji27/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</div>
-
-### My Projects 👨‍💻
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=CourseHub&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=YtAddSkip_WebExtention&show_icons=true&theme=great-gatsby">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=ayushmajiCv.github.io&show_icons=true&theme=great-gatsby">
-</div>
- 
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/AyushMaji.svg?style=social&label=Follow"></img>
-
-<img src="https://gpvc.arturio.dev/AyushMaji"></img>
 </div>
 
 ---
