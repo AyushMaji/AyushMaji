@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/">Ayush Maji</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+![Logo](https://github.com/AyushMaji/AyushMaji/blob/main/assets/banner.png?raw=true)
 
----
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=AyushMaji"/>|
-|---|---|
- 
+<h1 align="left">Hi there, I'm Ayush Maji  <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/"></a><img src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/amination/Hi.gif" width="30px"></h1></h1>
+
+As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile applications using Flutter, ensuring fast and visually appealing user experiences. I collaborate with a team of passionate developers to create innovative and user-friendly products. I hold a B.Tech in Computer Science from UEM and earned a silver certification in NPTEL for DBMS. I am passionate about building developer tools, having created Flutter packages, Chrome extensions, and various digital products to enhance productivity and development efficiency.
+
  ---
  
 - I am a Flutter Developer || AR Developer || MEAN stack Developer <br/>
