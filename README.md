@@ -60,9 +60,6 @@ As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile application
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=ayushmajiCv.github.io&show_icons=true&theme=great-gatsby">
 </div>
  
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/AyushMaji.svg?style=social&label=Follow"></img>
