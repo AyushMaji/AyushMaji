@@ -38,9 +38,9 @@ As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile application
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=amicons&show_icons=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=tokyonight"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=Maternal-and-Fetal-health-prediction&show_icons=true&theme=tokyonight"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=YtAddSkip_WebExtention&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=ayushmajiCv.github.io&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=tokyonight">
 </div>
 
 
