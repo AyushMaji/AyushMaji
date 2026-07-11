@@ -9,10 +9,7 @@ Hi, I'm Ayush Maji
 Data Engineer • Cloud & Big Data Enthusiast
 </h3>
 
-<p align="right">
-.
-  
-</p>
+<p align="right">.</p>
 
 ## 👨‍💻 About Me
 
