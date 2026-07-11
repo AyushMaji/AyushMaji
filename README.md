@@ -35,37 +35,31 @@ My interests include data engineering, distributed systems, analytics engineerin
 
 <td align="center">
 <a href="YOUR_MICROSOFT_LINK">
-<img src="assets/certifications/microsoft-ai-skills-fest-2026.png" width="120"><br>
+<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/microsoft.png?raw=true" width="120"><br>
 <b>AI Skills Fest 2026</b>
 </a>
 </td>
 
 <td align="center">
 <a href="YOUR_AIRFLOW_LINK">
-<img src="assets/certifications/astronomer-airflow.png" width="120"><br>
+<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/databricks.png?raw=true" width="120"><br>
 <b>Apache Airflow</b>
 </a>
 </td>
 
 <td align="center">
 <a href="YOUR_DATABRICKS_LINK">
-<img src="assets/certifications/databricks-fundamentals.png" width="120"><br>
+<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/airflow.png?raw=true" width="120"><br>
 <b>Databricks</b>
 </a>
 </td>
 
 <td align="center">
 <a href="YOUR_SQL_LINK">
-<img src="assets/certifications/sql-badge.png" width="120"><br>
+<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/sql.png?raw=true" width="120"><br>
 <b>SQL</b>
 </a>
 </td>
-
-<td align="center">
-<a href="YOUR_NPTEL_LINK">
-<img src="assets/certifications/nptel-python.png" width="120"><br>
-<b>NPTEL</b>
-</a>
 </td>
 
 </tr>
