@@ -26,46 +26,21 @@ My interests include data engineering, distributed systems, analytics engineerin
 - 🔹 dbt
 - 🔹 SQL & Python
 - 🔹 Open Source Contributor
-
+<br>
+</br>
 
 ## 🏆 Certifications
 
-<table align="center">
-<tr>
+<div>
 
-<td align="center">
-<a href="YOUR_MICROSOFT_LINK">
-<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/microsoft.png?raw=true" width="120"><br>
-<b>AI Skills Fest 2026</b>
-</a>
-</td>
+| | | | |
+|:-:|:-:|:-:|:-:|
+|<a href="https://www.credly.com/badges/ebd78aee-d42b-4e59-926b-92cf8d51b9fe/public_url"><img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/microsoft.png?raw=true" width="150"></a>|<a href="https://www.credly.com/badges/bd520de1-94d1-445c-855c-e3d3df301326/public_url"><img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/airflow.png?raw=true" width="150"></a>|<a href="https://credentials.databricks.com/708b98db-45b0-4512-bdb7-a5f99ebe0f1a?utm_source=linkedin&utm_medium=social"><img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/databricks.png?raw=true" width="150"></a>|<a href="https://www.linkedin.com/posts/ayushmaji_sql-hackerrank-queryoptimization-ugcPost-7340761866350088194-pcy6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKnyBQBGVYBdrMIDcMQ-MsaiZ5ParEF1Mw"><img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/sql.png?raw=true" width="150"></a>|
+|**Microsoft**|**Airflow**|**Databricks**|**SQL**|
+</div>
 
-<td align="center">
-<a href="YOUR_AIRFLOW_LINK">
-<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/databricks.png?raw=true" width="120"><br>
-<b>Apache Airflow</b>
-</a>
-</td>
-
-<td align="center">
-<a href="YOUR_DATABRICKS_LINK">
-<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/airflow.png?raw=true" width="120"><br>
-<b>Databricks</b>
-</a>
-</td>
-
-<td align="center">
-<a href="YOUR_SQL_LINK">
-<img src="https://github.com/AyushMaji/AyushMaji/blob/main/assets/sql.png?raw=true" width="120"><br>
-<b>SQL</b>
-</a>
-</td>
-</td>
-
-</tr>
-</table>
-
-
+<br>
+</br>
 
 ## 💼 Core Expertise
 
@@ -76,7 +51,10 @@ My interests include data engineering, distributed systems, analytics engineerin
 | **Data Engineering** | Apache Spark • Apache Airflow • dbt • Snowflake • Databricks • Kafka |
 | **Databases** | PostgreSQL • MySQL • MongoDB |
 | **Version Control** | Git • GitHub |
----
+
+<br>
+</br>
+
 ## 📫 Connect With Me
 
 <p align="left">
