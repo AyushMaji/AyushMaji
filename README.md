@@ -1,62 +1,64 @@
-![Logo](https://github.com/AyushMaji/AyushMaji/blob/main/assets/banner.png?raw=true)
+![Banner](https://github.com/AyushMaji/AyushMaji/blob/main/assets/banner.png?raw=true)
 
+<h1 align="left">
+Hi, I'm Ayush Maji
+<img src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/amination/Hi.gif" width="30px">
+</h1>
 
-<h1 align="left">Hi there, I'm Ayush Maji  <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/"></a><img src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/amination/Hi.gif" width="30px"></h1></h1>
-
-As an SDE-I at Fortmindz, I develop and deploy cross-platform mobile applications using Flutter, ensuring fast and visually appealing user experiences. I collaborate with a team of passionate developers to create innovative and user-friendly products. I hold a B.Tech in Computer Science from UEM and earned a silver certification in NPTEL for DBMS. I am passionate about building developer tools, having created Flutter packages, Chrome extensions, and various digital products to enhance productivity and development efficiency.
-
-  ---
-
-  
-- **Flutter Developer** || **Open Source Enthusiast** || **Product Creator** <br/>  
-- I love building **innovative and developer-friendly tools**. <br/>  
-- Passionate about creating **Flutter packages, Chrome extensions, and digital products** to boost productivity. <br/>  
-- I really enjoy learning new technologies and frameworks. <br/>  
-- I’m currently contributing to open-source projects and working on a **Flutter-based API platform**. <br/>  
-
-
-
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMaji&layout=compact)](https://github.com/AyushMaji/github-readme-stats)|<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMaji&theme=light&show_icons=true" alt="Anurag's github stats" />|
-|---|---|
-
-<h2>Technical Skills</h2>
-
-<br />
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<br />
-<br />
-
-<h2>My Projects</h2>
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=amicons&show_icons=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=Maternal-and-Fetal-health-prediction&show_icons=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=YtAddSkip_WebExtention&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMaji&repo=weather_app&show_icons=true&theme=tokyonight">
-</div>
-
-
- ## Connect with me  
-<div align="left">
- <a href="https://www.linkedin.com/in/ayushmaji/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AyushMaji" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ayushmaji27/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
+<h3 align="left">
+Data Engineer • Cloud & Big Data Enthusiast
+</h3>
 
 ---
 
-Leave a ⭐ from [here](https://github.com/AyushMaji/AyushMaji) if you like 😁
+## 👨‍💻 About Me
+
+I'm a Data Engineer with 3+ years of software engineering experience, passionate about building scalable data platforms, automating ETL pipelines, and designing cloud-native data solutions.
+
+My interests include data engineering, distributed systems, analytics engineering, and open-source development. I enjoy solving complex data problems using modern technologies and continuously learning new tools.
+
+- 🔹 Data Engineering
+- 🔹 ETL / ELT Pipelines
+- 🔹 AWS Cloud
+- 🔹 Apache Spark
+- 🔹 Apache Airflow
+- 🔹 Snowflake
+- 🔹 dbt
+- 🔹 SQL & Python
+- 🔹 Open Source Contributor
+
+
+## 🏆 Certifications
+
+✅ Apache Airflow Fundamentals
+✅ Databricks Fundamentals
+
+
+
+## 💼 Core Expertise
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | Python • SQL • c++ • Dart |
+| **Cloud** | ☁️ AWS (S3, Glue, Athena, Lambda, IAM) |
+| **Data Engineering** | Apache Spark • Apache Airflow • dbt • Snowflake • Databricks • Kafka |
+| **Databases** | PostgreSQL • MySQL • MongoDB |
+| **Version Control** | Git • GitHub |
+---
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ayushmaji/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/AyushMaji">
+<img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+⭐ If you find my projects useful, consider giving them a star.
