@@ -30,8 +30,46 @@ My interests include data engineering, distributed systems, analytics engineerin
 
 ## 🏆 Certifications
 
-✅ Apache Airflow Fundamentals
-✅ Databricks Fundamentals
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="YOUR_MICROSOFT_LINK">
+<img src="assets/certifications/microsoft-ai-skills-fest-2026.png" width="120"><br>
+<b>AI Skills Fest 2026</b>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_AIRFLOW_LINK">
+<img src="assets/certifications/astronomer-airflow.png" width="120"><br>
+<b>Apache Airflow</b>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_DATABRICKS_LINK">
+<img src="assets/certifications/databricks-fundamentals.png" width="120"><br>
+<b>Databricks</b>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_SQL_LINK">
+<img src="assets/certifications/sql-badge.png" width="120"><br>
+<b>SQL</b>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_NPTEL_LINK">
+<img src="assets/certifications/nptel-python.png" width="120"><br>
+<b>NPTEL</b>
+</a>
+</td>
+
+</tr>
+</table>
 
 
 
